@@ -1,0 +1,4 @@
+[submodule "public/lembahkode.github.io"]
+	path = public/lembahkode.github.io
+	url = https://github.com/lembahkode/lembahkode.github.io.git
+	branch = master
